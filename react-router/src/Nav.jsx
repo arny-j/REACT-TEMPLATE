@@ -6,7 +6,7 @@ function Nav(){
             <nav>
                 <Link to="./One">One</Link>
                 <Link to="./Two">Two</Link>
-                <Link to="./Three"></Link>
+                <Link to="./Three">Three</Link>
             </nav>
         </>
     )
