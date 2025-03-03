@@ -1,3 +1,4 @@
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Nav from './Nav.jsx'
 import One from './One.jsx'
 import Two from './Two.jsx'
