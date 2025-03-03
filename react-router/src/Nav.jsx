@@ -1,8 +1,13 @@
+import {Link} from 'react-router-dom';
+
 function Nav(){
     return(
         <>
-            <h1>Nav Menu</h1>
-            <p>Nav Menu Component</p>
+            <nav>
+                <Link to="./One">One</Link>
+                <Link to="./Two">Two</Link>
+                <Link to="./Three"></Link>
+            </nav>
         </>
     )
 }
