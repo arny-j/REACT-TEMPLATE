@@ -1,4 +1,7 @@
-
+import Nav from './Nav.jsx'
+import One from './One.jsx'
+import Two from './Two.jsx'
+import Three from './Three.jsx'
 
 function App() {
 
